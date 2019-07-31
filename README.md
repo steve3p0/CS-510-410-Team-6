@@ -1,3 +1,7 @@
+NOTE: This was a team project for CS410/510 Agile & Other XP Software. There were major disagreements amongst the team. The primary focus of this class was to learn Agile software development, but yet we failed to produce a single unit test.  Actually there is one unit test [here](https://github.com/steve3p0/CS-510-410-Team-6/blob/master/SealTeam6/SealTeam6.Test.DataProvider/DataProviderTests.cs) and one here [here](https://github.com/steve3p0/CS-510-410-Team-6/blob/master/SealTeam6/SealTeam6.Test.Core/UnitTest1.cs).
+
+I said to my team members that it would be better implement just a single function with 10 unit tests, rather than turn in a fully functioning project, and the professor agreed. I did get an A in the class and learned a lot, however.
+
 # CS-510-410-Team-6
 Source control for CS 510/410 Team: Agile/Extreme Programming
 Devan Cakebread
